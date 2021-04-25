@@ -8,3 +8,4 @@ Es muy sencillo el funcionamiento de este código, tan solo debes seleccionar la
 
 ## ¿Cómo lo ejecuto?
 Para ejecutarlo debes disponer de python en tu pc, una vez que dispongas de esto debes ejecutar el comando *python cambio_divisa.py*
+ 
