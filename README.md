@@ -12,3 +12,4 @@ Para ejecutarlo debes disponer de python en tu pc, una vez que dispongas de esto
  
  
  
+ 
